@@ -6,5 +6,6 @@ namespace ConsoleApp3._1
 {
     class Class1
     {
+        //lora
     }
 }
